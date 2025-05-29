@@ -11,7 +11,6 @@ public class LocatorsAndXpath {
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver=new ChromeDriver();
-
         driver.get("https://www.facebook.com");
 
 //        WebElement emailById = driver.findElement(By.id("email"));
