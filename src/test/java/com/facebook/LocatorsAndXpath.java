@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebElement;
 
+//Applied all locators and also implementing all ways to create xpath
 public class LocatorsAndXpath {
 
     public static void main(String[] args) throws InterruptedException {
