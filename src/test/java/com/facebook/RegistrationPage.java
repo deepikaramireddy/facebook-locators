@@ -82,7 +82,7 @@ public class RegistrationPage {
         Thread.sleep(1000);
 
         WebElement signUp= driver.findElement(By.name("websubmit"));
-        if (surname.isEnabled()){
+        if (signUp.isEnabled()){
             System.out.println("Sign Up component is working fine");
         }
         else {
