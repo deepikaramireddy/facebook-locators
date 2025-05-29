@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-//Applied methods of WebDriver and WebElement on login page
+//Applied methods of WebDriver and WebElement on LoginPage
 public class LoginPage {
 
     public static void main(String[] args) throws InterruptedException {
